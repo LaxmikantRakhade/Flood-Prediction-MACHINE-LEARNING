@@ -1,4 +1,4 @@
-Flood-Prediction-MACHINE_LEARNING_PROJECT
+Machine Learning Models for Flood Probability Prediction
 
 **Models Used :**
 
